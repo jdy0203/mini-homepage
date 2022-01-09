@@ -1,0 +1,15 @@
+.photo-image{
+  width: 300px;
+  height: 100%; 
+}
+
+.photo-title{
+  margin-top: 10px;
+  margin-bottom: 30px;
+  
+  background-color: grey;
+}
+
+.photo-content{
+  margin: 10px 30px;
+}
